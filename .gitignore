@@ -1,0 +1,21 @@
+﻿# Simulation outputs
+sim/dump.vcd
+sim/sim.vvp
+sim/*.hex
+
+# Image data
+image_data.hex
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Personal images
+*.jpg
+*.jpeg
+
+# OS files
+.DS_Store
+Thumbs.db
