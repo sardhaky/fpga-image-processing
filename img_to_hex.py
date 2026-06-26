@@ -16,4 +16,4 @@ with open(OUTPUT_HEX, "w") as f:
         f.write(f"{b:02X}\n")
 
 print(f"Done! {IMG_W}x{IMG_H} = {IMG_W*IMG_H} pixels")
-print(f"Written to {OUTPUT_HEX} ({IMG_W*IMG_H*3} lines)")
+print(f"Written to {OUTPUT_HEX} ({IMG_W*IMG_H*3} lines")
